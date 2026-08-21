@@ -3,9 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-xgboost
 prophet
-plotly
-streamlit
-joblib
-scipy
+power bi
